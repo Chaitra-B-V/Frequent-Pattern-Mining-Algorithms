@@ -2,7 +2,7 @@
 
 a) Write  colabs to demonstrate frequent pattern mining apriori and fpgrowth techniques
 
-Apriori Algo: Apriori.ipynb
+Apriori Algo: Apriori.ipynb and Groceries_dataset.csv
 
 Details of the dataset
 The dataset has 38765 rows of the purchase orders of people from the grocery stores. These orders can be analysed using Market Basket Analysis by Apriori Algorithm.
